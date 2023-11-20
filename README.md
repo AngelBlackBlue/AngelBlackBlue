@@ -28,7 +28,6 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-00000?style=for-the-badge&logo=sequelize&logoColor=green&color=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-00000?style=for-the-badge&logo=postgresql&logoColor=blue&color=white)
 ![Git](https://img.shields.io/badge/git-00000?style=for-the-badge&logo=git&color=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo&logo=github)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
