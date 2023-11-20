@@ -26,7 +26,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-<br/>  
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
@@ -40,17 +39,12 @@
 
 <br/>  
 
-  
-
-<br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=AngelBlackBlue&&style=flat-square)  
   
 
 <br/>  
 
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
