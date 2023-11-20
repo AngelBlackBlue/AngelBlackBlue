@@ -15,7 +15,7 @@
 ## ⚡ Technologies
 
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 
@@ -24,6 +24,10 @@
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
 ![Static Badge](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
+
+
 
 
 
