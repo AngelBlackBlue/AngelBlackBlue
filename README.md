@@ -26,6 +26,12 @@
 ![Sequelize](https://img.shields.io/badge/Sequelize-00000?style=for-the-badge&logo=sequelize&logoColor=green&color=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-00000?style=for-the-badge&logo=postgresql&logoColor=blue&color=white)
 ![Git](https://img.shields.io/badge/git-00000?style=for-the-badge&logo=git&color=white)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
+![ESLint](https://img.shields.io/badge/ESLint-ADD8E6?style=for-the-badge&logo=eslint&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-00000?style=for-the-badge&logo=vite&logoColor=black&color=white)
+![Vercel](https://img.shields.io/badge/vercel-00000?style=for-the-badge&logo=vercel&logoColor=black&color=white)
 
 
 ## Github Stats  
