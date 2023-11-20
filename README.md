@@ -33,6 +33,7 @@
 ![ESLint](https://img.shields.io/badge/ESLint-ADD8E6?style=for-the-badge&logo=eslint&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-00000?style=for-the-badge&logo=vite&logoColor=black&color=white)
 ![Vercel](https://img.shields.io/badge/vercel-00000?style=for-the-badge&logo=vercel&logoColor=black&color=white)
+[![Postman](https://img.shields.io/badge/Postman-10.15-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 
 ## Github Stats  
