@@ -14,8 +14,7 @@
 
 ## ⚡ Technologies
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -24,6 +23,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=blue)
+
+
 
 [![Cloudinary](https://img.shields.io/badge/Cloudinary-777BB4?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
 ![Sequelize](https://img.shields.io/badge/Sequelize-00000?style=for-the-badge&logo=sequelize&logoColor=green&color=white)
