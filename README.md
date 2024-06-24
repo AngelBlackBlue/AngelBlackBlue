@@ -54,7 +54,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-181717?logo=github&logoColor=white&style=for-the-badge)
-![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![Hoppscotch](https://img.shields.io/badge/-Hoppscotch-31C48D?logo=hoppscotch&logoColor=white&style=for-the-badge)
 ![TablePlus](https://img.shields.io/badge/-TablePlus-F58C00?logo=tableplus&logoColor=white&style=for-the-badge)
@@ -62,6 +61,13 @@
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
+![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-181717?logo=github&logoColor=white&style=for-the-badge)
+
+## Gestión de Paquetes
+![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge)
+![Bun](https://img.shields.io/badge/-Bun-000000?logo=npm&logoColor=white&style=for-the-badge)
+
 
 ## Despliegue
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
