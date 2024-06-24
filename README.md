@@ -65,9 +65,7 @@
 
 ## Gestión de Paquetes
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
-![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=for-the-badge)
 ![Bun](https://img.shields.io/badge/-Bun-000000?logo=https://techicons.dev/icons/bun&logoColor=white&style=for-the-badge)
-
 
 ## Despliegue
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
