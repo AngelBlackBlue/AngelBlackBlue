@@ -12,25 +12,6 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
 
-## ⚡ Technologies
-
-![Static Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=JavaScript)
-![Static Badge](https://img.shields.io/badge/TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=blue)
-![Static Badge](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js)
-[![Cloudinary](https://img.shields.io/badge/Cloudinary-777BB4?style=for-the-badge&logo=cloudinary&logoColor=white)](https://cloudinary.com/)
-![Sequelize](https://img.shields.io/badge/Sequelize-00000?style=for-the-badge&logo=sequelize&logoColor=green&color=white)
-![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-00000?style=for-the-badge&logo=postgresql&logoColor=blue&color=white)
-![Git](https://img.shields.io/badge/git-00000?style=for-the-badge&logo=git&color=white)
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38b2ac?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)](https://redux.js.org/)
-![ESLint](https://img.shields.io/badge/ESLint-ADD8E6?style=for-the-badge&logo=eslint&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-00000?style=for-the-badge&logo=vite&logoColor=black&color=white)
-![Vercel](https://img.shields.io/badge/vercel-00000?style=for-the-badge&logo=vercel&logoColor=black&color=white)
-![Static Badge](https://img.shields.io/badge/hoppscotch.io-black?style=for-the-badge&logo=hoppscotch)
-
 # Stack Tecnológico
 
 ## Frontend
