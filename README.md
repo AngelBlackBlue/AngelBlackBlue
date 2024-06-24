@@ -33,6 +33,8 @@
 ![refine](https://img.shields.io/badge/-refine-000000?style=for-the-badge)
 
 ## Backend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=for-the-badge)
 ![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
@@ -52,6 +54,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![GitHub Desktop](https://img.shields.io/badge/-GitHub%20Desktop-181717?logo=github&logoColor=white&style=for-the-badge)
+![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![Hoppscotch](https://img.shields.io/badge/-Hoppscotch-31C48D?logo=hoppscotch&logoColor=white&style=for-the-badge)
 ![TablePlus](https://img.shields.io/badge/-TablePlus-F58C00?logo=tableplus&logoColor=white&style=for-the-badge)
