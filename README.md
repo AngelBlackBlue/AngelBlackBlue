@@ -46,6 +46,7 @@
 ![Zod Validation](https://img.shields.io/badge/-Zod%20Validation-000000?style=for-the-badge)
 
 ## Bases de Datos
+![TypeORM](https://img.shields.io/badge/-TypeORM-376D9C?logo=typeorm&logoColor=white&style=for-the-badge)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
@@ -64,6 +65,7 @@
 ![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-181717?logo=github&logoColor=white&style=for-the-badge)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 ![Bun](https://img.shields.io/badge/-Bun-000000?logo=https://techicons.dev/icons/bun&logoColor=white&style=for-the-badge)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=for-the-badge)
 
 ## Despliegue
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
