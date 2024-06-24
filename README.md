@@ -62,8 +62,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
 ![Trello](https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=for-the-badge)
 ![GitHub Projects](https://img.shields.io/badge/-GitHub%20Projects-181717?logo=github&logoColor=white&style=for-the-badge)
-
-## Gestión de Paquetes
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white&style=for-the-badge)
 ![Bun](https://img.shields.io/badge/-Bun-000000?logo=https://techicons.dev/icons/bun&logoColor=white&style=for-the-badge)
 
