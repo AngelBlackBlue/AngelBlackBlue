@@ -1,19 +1,19 @@
 ## Hey 👋, I'm Angel Suarez!
 
 <a href="https://github.com/AngelBlackBlue" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=plastic&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" style="height: 25px; width: auto;"/>
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=plastic&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px; height: 25px; width: auto;"/>
 </a>
 <a href="https://wakatime.com/@FullStake" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-000000?style=plastic&logo=wakatime&logoColor=white" alt="WakaTime" style="margin-bottom: 5px;" style="height: 25px; width: auto;"/>
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=plastic&logo=wakatime&logoColor=white" alt="WakaTime" style="margin-bottom: 5px; height: 25px; width: auto;"/>
 </a>
 <a href="https://linkedin.com/in/suarezangel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" style="height: 25px; width: auto;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px; height: 25px; width: auto;"/>
 </a>
 <a href="https://twitter.com/@Angel_Stack23" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=plastic&logo=x&logoColor=white" alt="X" style="margin-bottom: 5px;" style="height: 25px; width: auto;"/>
+    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=plastic&logo=x&logoColor=white" alt="X" style="margin-bottom: 5px; height: 25px; width: auto;"/>
 </a> 
 <a href="https://portafolio-aas.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=plastic&logo=astro&logoColor=white" alt="Portfolio" style="margin-bottom: 5px;" style="height: 25px; width: auto;"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=plastic&logo=astro&logoColor=white" alt="Portfolio" style="margin-bottom: 5px; height: 25px; width: auto;"/>
 </a>
 
 # Stack Tecnológico
