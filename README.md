@@ -1,5 +1,7 @@
 ## Hey 👋, I'm Angel Suarez!
 
+Desarrollador Full Stack con más de 2 años de experiencia técnica, especializado en el ecosistema JavaScript/TypeScript (Node.js, NestJS, React) y con sólida base en Java/Spring Boot. Mi enfoque se centra en la construcción de arquitecturas escalables y seguras, con especial énfasis en la integración de Microservicios y GraphQL. Soy un firme defensor de la calidad de software, aplicando estrategias de testing integral (Unit, Integration, E2E) para garantizar productos robustos. Poseo una mentalidad orientada a la resolución de problemas en equipos multidisciplinarios y una alta capacidad de adaptación a nuevos desafíos tecnológicos.
+
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
 <a href="https://github.com/AngelBlackBlue" target="_blank">
     <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=flat&logo=github&logoColor=white" alt="github" style="height: 25px; width: auto;"/>
@@ -116,6 +118,7 @@
 <img src="https://img.shields.io/badge/-SourceTree-0052CC?logo=sourcetree&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
 <img src="https://img.shields.io/badge/-Warp-01A4FF?logo=warp&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
 <img src="https://img.shields.io/badge/-TablePlus-FF6B35?style=flat" style="height: 25px; width: auto;"/>
+<img src="https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
 </div>
 
 ## Contenedores
@@ -156,3 +159,4 @@
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=AngelBlackBlue&&style=flat-square)  
+
