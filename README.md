@@ -1,162 +1,86 @@
-## Hey 👋, I'm Angel Suarez!
+# Hey 👋, I'm Angel Suarez!
 
-Desarrollador Full Stack con más de 2 años de experiencia técnica, especializado en el ecosistema JavaScript/TypeScript (Node.js, NestJS, React) y con sólida base en Java/Spring Boot. Mi enfoque se centra en la construcción de arquitecturas escalables y seguras, con especial énfasis en la integración de Microservicios y GraphQL. Soy un firme defensor de la calidad de software, aplicando estrategias de testing integral (Unit, Integration, E2E) para garantizar productos robustos. Poseo una mentalidad orientada a la resolución de problemas en equipos multidisciplinarios y una alta capacidad de adaptación a nuevos desafíos tecnológicos.
+**Full Stack Developer | Backend Specialist | Architecture & Testing Enthusiast**
 
+Desarrollador Full Stack con más de **2 años de experiencia técnica**. Actualmente enfocado en la construcción de ecosistemas digitales complejos, integrando **Web Apps con arquitecturas de Microservicios (Node/Express)** y optimizando APIs de alto rendimiento en **NestJS con GraphQL**.
+
+### 🚀 Mi Enfoque Actual
+* **Desarrollo de Microservicios:** Conexión y escalabilidad de servicios distribuidos.
+* **Calidad Garantizada:** Implementación de la pirámide de pruebas completa (**Unit, Integration, E2E**) con Jest y Supertest.
+* **Arquitecturas Modernas:** Manejo avanzado de esquemas GraphQL y optimización de bases de datos relacionales.
+* **Colaboración:** Experiencia real en equipos multidisciplinarios (UX/UI, PM, Frontend) en entornos **remotos**.
+
+---
+
+### 📬 Conectemos:
 <div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<a href="https://github.com/AngelBlackBlue" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=flat&logo=github&logoColor=white" alt="github" style="height: 25px; width: auto;"/>
+<a href="https://linkedin.com/in/suarezangel" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://portafolio-aas.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://wakatime.com/@FullStake" target="_blank">
-    <img src="https://img.shields.io/badge/WakaTime-000000?style=flat&logo=wakatime&logoColor=white" alt="WakaTime" style="height: 25px; width: auto;"/>
-</a>
-<a href="https://linkedin.com/in/suarezangel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" style="height: 25px; width: auto;"/>
-</a>
-<a href="https://twitter.com/@Angel_Stack23" target="_blank">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?&style=flat&logo=x&logoColor=white" alt="X" style="height: 25px; width: auto;"/>
-</a> 
-<a href="https://portafolio-aas.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=flat&logo=astro&logoColor=white" alt="Portfolio" style="height: 25px; width: auto;"/>
+    <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=wakatime&logoColor=white" alt="WakaTime"/>
 </a>
 </div>
 
-# Stack Tecnológico
+---
 
-## Lenguajes de Programación
+### 🛠️ Stack Tecnológico
 
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
+#### **Backend & Data**
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white)
+
+#### **Frontend & UI**
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white)
+![Shadcn/UI](https://img.shields.io/badge/-Shadcn/UI-000000?logo=shadcnui&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-FF5D00?logo=astro&logoColor=white)
+
+#### **DevOps & Testing**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/-Supertest-07BA82?style=flat)
+![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black)
+
+---
+
+### ⭐ Proyectos Destacados
+
+#### [Gestion 360](TU_LINK_AQUI)
+**Web App de gestión de stock y ventas.**
+* **Tech:** NestJS, JWT, Cloudinary, Swagger, PostgreSQL.
+* **Highlights:** Implementación de arquitectura modular y documentación técnica exhaustiva.
+
+#### [Connextion - Agenda Personal](TU_LINK_AQUI)
+**Backend robusto para gestión de contactos.**
+* **Tech:** Java, Spring Boot, Hibernate, Docker.
+* **Highlights:** Uso de contenedores para un despliegue ágil y manejo de persistencia avanzada.
+
+#### [PetCare](TU_LINK_AQUI)
+**Plataforma de gestión veterinaria.**
+* **Tech:** React, Zustand, Node.js, Express, Sequelize.
+* **Highlights:** Manejo de estado complejo en el frontend e integraciones de terceros.
+
+---
+
+### 📊 Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AngelBlackBlue&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelBlackBlue&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </div>
 
-## Front-End
+<br/>
 
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Pinia-FFD859?logo=pinia&logoColor=black&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Zustand-2D3748?logo=zustand&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Astro-FF5D00?logo=astro&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Shadcn/UI-000000?logo=shadcnui&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Tanstack%20Query-FF4154?logo=reactquery&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Apollo%20Client-311C87?logo=apollographql&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-</div>
-
-## Back-End
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Apollo%20Server-311C87?logo=apollographql&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Nodemailer-5A6368?logo=nodemailer&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Express%20Validator-404D59?logo=express&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Zod-3E67B1?logo=zod&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-</div>
-
-## Documentación
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<img src="https://img.shields.io/badge/-Swagger-85EA2D?logo=swagger&logoColor=black&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Apollo%20Sandbox-311C87?logo=apollographql&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-</div>
-
-## Base de Datos
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<img src="https://img.shields.io/badge/-TypeORM-376D9C?logo=typeorm&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Sequelize-52B0E7?logo=sequelize&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-</div>
-
-## Testing y Herramientas de Desarrollo
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<img src="https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Supertest-07BA82?style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Hoppscotch-31C48D?logo=hoppscotch&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-</div>
-
-## Herramientas Ágiles
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<img src="https://img.shields.io/badge/-Trello-0052CC?logo=trello&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Slack-4A154B?logo=slack&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-</div>
-
-## Metodologías Ágiles
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<img src="https://img.shields.io/badge/-Scrum-6DB33F?logo=scrum&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Kanban-0079BF?logo=kanban&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-</div>
-
-
-## Control de Versiones y Herramientas
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-GitLab-FC6D26?logo=gitlab&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-GitHub%20Desktop-663399?logo=github&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-SourceTree-0052CC?logo=sourcetree&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Warp-01A4FF?logo=warp&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-TablePlus-FF6B35?style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-</div>
-
-## Contenedores
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Docker%20Compose-2496ED?logo=docker&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-</div>
-
-## Gestores de Paquetes
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<img src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Yarn-2C8EBB?logo=yarn&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-PNPM-F69220?logo=pnpm&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Bun-F2A03D?logo=bun&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-</div>
-
-## Despliegue y Hosting
-
-<div style="display: flex; flex-wrap: wrap; gap: 5px;">
-<img src="https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-<img src="https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat" style="height: 25px; width: auto;"/>
-</div>
-
-## Github Stats
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AngelBlackBlue&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelBlackBlue&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=AngelBlackBlue&&style=flat-square)  
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AngelBlackBlue&style=flat-square&color=blue" alt="Profile views counter" />
+</p>
