@@ -17,6 +17,9 @@ Desarrollador Full Stack con más de **2 años de experiencia técnica**. Actual
 <a href="https://linkedin.com/in/suarezangel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+<a href="https://docs.google.com/document/d/e/2PACX-1vRw9WgD3rO7w3el__UMmR_d5wE_56QcF9by3mzU-_2fmi_3ecX-BIW8jO2aDTl0Y57U91myL7kVwgqT/pub" target="_blank">
+    <img src="https://img.shields.io/badge/Mi%20CV-00A4EF.svg?&style=for-the-badge&logo=google-docs&logoColor=white" alt="Ver CV"/>
+</a>
 <a href="https://portafolio-aas.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=astro&logoColor=white" alt="Portfolio"/>
 </a>
