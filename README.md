@@ -7,7 +7,6 @@ Desarrollador Full Stack con más de **2 años de experiencia técnica**. Actual
 ### 🚀 Mi Enfoque Actual
 * **Desarrollo:** Conexión y escalabilidad de servicios distribuidos.
 * **Testing Integral:** Implementación de la pirámide de pruebas completa (**Unit, Integration, E2E**) con Jest y Supertest.
-* **Arquitecturas Modernas:** Manejo esquemas GraphQL y optimización de bases de datos relacionales.
 * **Colaboración:** Experiencia real en equipos multidisciplinarios (UX/UI, PM, Frontend) en entornos **remotos**.
 
 ---
