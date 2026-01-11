@@ -71,7 +71,7 @@ Desarrollador Full Stack con más de **2 años de experiencia técnica**. Actual
 #### [PetCare](TU_LINK_AQUI)
 **Plataforma de gestión veterinaria.**
 * **Tech:** React, Zustand, Node.js, Express, Sequelize.
-* **Highlights:** Manejo de estado complejo en el frontend e integraciones de terceros.
+* **Highlights:** Manejo de estado complejo en el frontend y desarrollo de api rest.
 
 ---
 
