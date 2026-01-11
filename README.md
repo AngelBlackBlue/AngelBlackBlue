@@ -5,9 +5,9 @@
 Desarrollador Full Stack con más de **2 años de experiencia técnica**. Actualmente enfocado en la construcción de ecosistemas digitales complejos, integrando **Web Apps con arquitecturas de Microservicios (Node/Express)** y optimizando APIs en **NestJS con GraphQL**.
 
 ### 🚀 Mi Enfoque Actual
-* **Desarrollo:** Conexión y escalabilidad de servicios distribuidos.
-* **Testing Integral:** Implementación de la pirámide de pruebas completa (**Unit, Integration, E2E**) con Jest y Supertest.
-* **Colaboración:** Experiencia real en equipos multidisciplinarios (UX/UI, PM, Frontend) en entornos **remotos**.
+* **Backend Architecture:** Conexión de microservicios y optimización de bases de datos relacionales.
+* **Testing Riguroso:** Implementación de la pirámide de pruebas completa (**Unit, Integration, E2E**) con Jest y Supertest, utilizando **SQLite en memoria** para entornos aislados y veloces.
+* **Colaboración:** Experiencia real en equipos multidisciplinarios (UX/UI, PM, Frontend) en entornos **remotos** bajo metodologías ágiles.
 
 ---
 
@@ -39,6 +39,7 @@ Desarrollador Full Stack con más de **2 años de experiencia técnica**. Actual
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=springboot&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/-DBeaver-372923?logo=dbeaver&logoColor=white)
 
 #### **Frontend & UI**
@@ -58,20 +59,20 @@ Desarrollador Full Stack con más de **2 años de experiencia técnica**. Actual
 
 ### ⭐ Proyectos Destacados
 
-#### [Gestion 360](TU_LINK_AQUI)
+#### [Gestion 360](https://github.com/AngelBlackBlue/Gestion360)
 **Web App de gestión de stock y ventas.**
 * **Tech:** NestJS, JWT, Cloudinary, Swagger, PostgreSQL.
 * **Highlights:** Implementación de arquitectura modular y documentación técnica exhaustiva.
 
-#### [Connextion - Agenda Personal](TU_LINK_AQUI)
+#### [Connextion - Agenda Personal](https://github.com/AngelBlackBlue/Connextion)
 **Backend robusto para gestión de contactos.**
 * **Tech:** Java, Spring Boot, Hibernate, Docker.
 * **Highlights:** Uso de contenedores para un despliegue ágil y manejo de persistencia avanzada.
 
-#### [PetCare](TU_LINK_AQUI)
+#### [PetCare](https://github.com/AngelBlackBlue/PetCare)
 **Plataforma de gestión veterinaria.**
 * **Tech:** React, Zustand, Node.js, Express, Sequelize.
-* **Highlights:** Manejo de estado complejo en el frontend y desarrollo de api rest.
+* **Highlights:** Manejo de estado complejo y arquitectura de API REST segura.
 
 ---
 
