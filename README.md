@@ -5,7 +5,7 @@
 Desarrollador Full Stack con más de **2 años de experiencia técnica**. Actualmente enfocado en la construcción de ecosistemas digitales complejos, integrando **Web Apps con arquitecturas de Microservicios (Node/Express)** y optimizando APIs de alto rendimiento en **NestJS con GraphQL**.
 
 ### 🚀 Mi Enfoque Actual
-* **Desarrollo de Microservicios:** Conexión y escalabilidad de servicios distribuidos.
+* **Desarrollo:** Conexión y escalabilidad de servicios distribuidos.
 * **Testing Integral:** Implementación de la pirámide de pruebas completa (**Unit, Integration, E2E**) con Jest y Supertest.
 * **Arquitecturas Modernas:** Manejo esquemas GraphQL y optimización de bases de datos relacionales.
 * **Colaboración:** Experiencia real en equipos multidisciplinarios (UX/UI, PM, Frontend) en entornos **remotos**.
