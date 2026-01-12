@@ -1,6 +1,6 @@
 # Hey 👋, I'm Angel Suarez!
 
-**Full Stack Developer | Backend Specialist | Architecture & Testing Enthusiast**
+**Full Stack Developer | Backend Specialist | Testing Enthusiast**
 
 Desarrollador Full Stack con más de **2 años de experiencia técnica**. Actualmente enfocado en la construcción de ecosistemas digitales complejos, integrando **Web Apps con arquitecturas de Microservicios (Node/Express)** y optimizando APIs en **NestJS con GraphQL**.
 
